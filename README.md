@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hiya !!
 
-<!--
-**matthbrennan/matthbrennan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Matthew, a passionate developer working on awesome projects. Check out my repositories and feel free to connect with me!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Stats
+<!-- Dynamic language ratio -->
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthbrennan&layout=compact&theme=radical)
+
+---
+
+## Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=matthbrennan&color=blue&style=flat)
+
+---
